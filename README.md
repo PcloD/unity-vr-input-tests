@@ -1,2 +1,2 @@
-# unity-scene-switching-tests
-Project for testing Unity's scene load and unload support
+# unity-vr-input-tests
+Project for testing Unity's VR input support
